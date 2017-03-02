@@ -26,8 +26,9 @@ public class Dry {
 }
 ```
 
-Reference : https://javaadept.wordpress.com/2015/03/04/dont-repeat-yourself-dry/
-            http://www.artima.com/weblogs/viewpost.jsp?thread=331531
+Reference :
+* https://javaadept.wordpress.com/2015/03/04/dont-repeat-yourself-dry/
+* http://www.artima.com/weblogs/viewpost.jsp?thread=331531
 
 ## Write Code For The Maintainer
 
@@ -90,5 +91,6 @@ public class Stopwatch {
 }
 ```
 
-Reference : https://dailycache.wordpress.com/tag/write-code-for-the-maintainer/
-            http://www.artima.com/weblogs/viewpost.jsp?thread=331531
+Reference :
+* https://dailycache.wordpress.com/tag/write-code-for-the-maintainer/
+* http://www.artima.com/weblogs/viewpost.jsp?thread=331531
